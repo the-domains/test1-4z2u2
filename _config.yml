@@ -12,3 +12,7 @@ color:
     - '#D5DAE0'
     - '#86663F'
 name: test1
+navigation:
+  - name: yahoo
+    url: yahoo.com
+    type: external
