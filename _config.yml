@@ -1,5 +1,6 @@
-layout_spectrum: 0.19124073698185384
 typography_spectrum: 0.27071239915676415
+content_rating:
+  adult: false
 color:
   brandStrength: 0.8849901861976832
   lightness: 0.25030801398679614
@@ -11,6 +12,9 @@ color:
     - '#6D9B39'
     - '#D5DAE0'
     - '#86663F'
+layout_spectrum: 0.19124073698185384
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/8a39c312-18a7-48f2-a0d6-ead03d8a91b4.jpg
 name: test1
 navigation:
   - name: yahoo
